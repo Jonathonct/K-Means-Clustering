@@ -16,13 +16,13 @@ Disadvantages of the K-Means algorithm: </br >
     - Does not work well with boolean/categorical data that has been converted to arbitrary numeric form </br >
 
 
-Example data sets to work on, courtesy of UCI's machine learning website:
-Iris data set: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
-Wine data set: https://archive.ics.uci.edu/ml/machine-learning-databases/wine/
-Breast cancer data set: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
-*Updated to be able to read in missing data entries, marked as '?' and non-CSV formatted files
-*I am currently working on resolving several other bugs relating to certain data sets and formatting
-Use guide:
+Example data sets to work on, courtesy of UCI's machine learning website:  </br >
+Iris data set: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data  </br >
+Wine data set: https://archive.ics.uci.edu/ml/machine-learning-databases/wine/  </br >
+Breast cancer data set: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data  </br >
+*Updated to be able to read in missing data entries, marked as '?' and non-CSV formatted files  </br >
+*I am currently working on resolving several other bugs relating to certain data sets and formatting  </br >
+Use guide:  </br >
 
    1. Compile the 5 files ending in .h or .cpp together in Microsoft's Visual Studio 2017
    2. Run the program, enter the name of the file to use for learning and pick the value K for clustering.
