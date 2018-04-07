@@ -94,7 +94,6 @@ std::string disp_res(int no_points, Kmeans*& kmeans, RD& rd, std::ofstream& logf
 	if(kmeans->named)
 		if(vf < 7) vf = 7;
 		else dig = vf - 7;
-	std::cout << vf << " vf\n";
 	vf = pow(10, vf);
 	int tmp;
 	if(!(kmeans->named)){
@@ -106,7 +105,6 @@ std::string disp_res(int no_points, Kmeans*& kmeans, RD& rd, std::ofstream& logf
 		}
 	}
 	dig = pow(10, dig);
-	std::cout << dig << " dig\n";
 	tmp = no_points;
 	while (tmp>9) {
 		tmp = tmp / 10;
