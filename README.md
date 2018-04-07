@@ -1,7 +1,8 @@
 
 
-The following implementation of the K-Means Clustering algorithm was written by Jonathon Teague and updated 4/3/2018
-Please send any questions, comments or concerns to Jonathonct@gmail.com
+The following implementation of the K-Means Clustering algorithm was written by Jonathon Teague and updated 4/3/2018  </br >
+Please send any questions, comments or concerns to Jonathonct@gmail.com  </br >
+Compiled and ran on g++.  </br >
 K-Means sorts numerical data into K-clusters, where K is a user-entered number. To learn the basics of the algorithm:
 https://en.wikipedia.org/wiki/K-means_clustering
 
