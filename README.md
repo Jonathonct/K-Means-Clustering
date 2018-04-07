@@ -25,7 +25,7 @@ Breast cancer data set: https://archive.ics.uci.edu/ml/machine-learning-database
 *I am currently working on resolving several other bugs relating to certain data sets and formatting  </br >
 Use guide:  </br >
 
-   1. Compile the 5 files ending in .h or .cpp together in Microsoft's Visual Studio 2017
+   1. Compile the 5 files ending in .h or .cpp together
    2. Run the program, enter the name of the file to use for learning and pick the value K for clustering.
         - You can also choose to use 10% of the learning file for testing after creating the clusters
    3. Choose from the following menu options:
