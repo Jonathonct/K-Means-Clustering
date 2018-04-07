@@ -4,15 +4,15 @@ The following implementation of the K-Means Clustering algorithm was written by 
 Please send any questions, comments or concerns to Jonathonct@gmail.com
 This version of the K-Means Clustering algorithm was written and compiled on Microsoft's Visual Studio 2017 in C++. K-Means sorts numerical data into K-clusters, where K is a user-entered number.
 
-Advantages of the K-Means algorithm:
-    - Relatively fast compared to other clustering algorithms
-    - Can attain above 90% accuracy on certain data sets
-    - Can identify previously unknown trends in data
+Advantages of the K-Means algorithm: </br >
+    - Relatively fast compared to other clustering algorithms </br >
+    - Can attain above 90% accuracy on certain data sets </br >
+    - Can identify previously unknown trends in data </br >
 
-Disadvantages of the K-Means algorithm:
-    - Can take a long time to process a large learning set
-    - Requires consistent numerical data
-    - Does not work well with boolean/categorical data that has been converted to arbitrary numeric form
+Disadvantages of the K-Means algorithm: </br >
+    - Can take a long time to process a large learning set </br >
+    - Requires consistent numerical data </br >
+    - Does not work well with boolean/categorical data that has been converted to arbitrary numeric form </br >
 
 
 Example data sets to work on, courtesy of UCI's machine learning website:
