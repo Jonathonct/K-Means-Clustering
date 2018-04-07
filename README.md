@@ -2,7 +2,8 @@
 
 The following implementation of the K-Means Clustering algorithm was written by Jonathon Teague and updated 4/3/2018
 Please send any questions, comments or concerns to Jonathonct@gmail.com
-This version of the K-Means Clustering algorithm was written and compiled on Microsoft's Visual Studio 2017 in C++. K-Means sorts numerical data into K-clusters, where K is a user-entered number.
+K-Means sorts numerical data into K-clusters, where K is a user-entered number. To learn the basics of the algorithm:
+https://en.wikipedia.org/wiki/K-means_clustering
 
 Advantages of the K-Means algorithm: </br >
     - Relatively fast compared to other clustering algorithms </br >
